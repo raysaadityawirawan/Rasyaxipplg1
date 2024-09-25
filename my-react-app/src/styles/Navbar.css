@@ -1,0 +1,20 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    background-color: rgb(45, 160, 199);
+    height: 70px;
+    width: auto;
+    padding: 5px;
+    margin: -50px;
+}
+
+
+ul h2{
+     display: inline; 
+    margin: 10px 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
